@@ -2,7 +2,7 @@
 
 * Desafio: Desenvolver um sistema para otimizar o agendamento de aulas e a gestão de profissionais de apoio em academias, incluindo funcionalidades de cadastro de horários e envio de notificações.
 
-Etapas do Projeto:
+## Etapas do Projeto:
 
 1- Descrição das tabelas e relacionamentos
 
@@ -12,7 +12,8 @@ Etapas do Projeto:
 
 4- Diagrama entidade relacionamento
 
-Ferramentas:
+## Ferramentas:
+
 • SQLalchemy para criação e gestão do banco de dados
 
 • Lucidchart: Software online de diagramas
