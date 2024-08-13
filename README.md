@@ -20,4 +20,4 @@ Competências Adquiridas:
 • Criação de diagramas ERD
 • Gestão de dados e notificações
 
-* **Projeto**: [**Link**](https://github.com/RDS-Projects))
+* **Projeto**: [**Link**](https://github.com/RDS-Projects)
