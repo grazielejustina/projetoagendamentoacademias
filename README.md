@@ -20,6 +20,6 @@
 
 Resultados: O projeto oferece uma solução completa para o gerenciamento de agendamentos em academias, com uma estrutura de dados robusta e eficiente. A implementação garante um fluxo organizado de informações e facilita a gestão de horários e comunicação com clientes.
 
-Competências Adquiridas: modelagem de dados, desenvolvimento de SQL, criação de diagramas ERD e gestão de dados e notificações
+* **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
 * **Projeto**: [**Link**](https://github.com/RDS-Projects)
