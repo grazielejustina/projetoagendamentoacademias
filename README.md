@@ -1,4 +1,4 @@
-# Projeto de agendamento de academias com cadastro de horários, notificações e profissionais de apoio
+# Projeto de Negócios: Agendamento de academias com cadastro de horários, notificações e profissionais de apoio
 
 * Desafio: Desenvolver um sistema para otimizar o agendamento de aulas e a gestão de profissionais de apoio em academias, incluindo funcionalidades de cadastro de horários e envio de notificações.
 
